@@ -1,0 +1,362 @@
+[
+  {
+    "nome": "ChatGPT",
+    "descricao": "Modelo de linguagem avançado desenvolvido pela OpenAI capaz de gerar textos, responder perguntas, criar códigos e auxiliar em inúmeras tarefas.",
+    "data_criacao": "2022",
+    "link": "https://chat.openai.com",
+    "tags": [
+      "NLP",
+      "Modelo de linguagem",
+      "Assistente virtual",
+      "IA generativa"
+    ]
+  },
+  {
+    "nome": "Gemini",
+    "descricao": "Modelo multimodal do Google capaz de processar texto, imagem, áudio e vídeo, integrando-se profundamente a serviços como Android e Google Workspace.",
+    "data_criacao": "2023",
+    "link": "https://gemini.google.com",
+    "tags": [
+      "Multimodal",
+      "Google AI",
+      "IA generativa",
+      "Produtividade"
+    ]
+  },
+  {
+    "nome": "DALL-E",
+    "descricao": "Gerador de imagens baseado em inteligência artificial capaz de transformar descrições textuais em criações visuais detalhadas.",
+    "data_criacao": "2021",
+    "link": "https://openai.com/dall-e",
+    "tags": [
+      "Geração de imagens",
+      "IA generativa",
+      "Criatividade",
+      "Text-to-image"
+    ]
+  },
+  {
+    "nome": "Midjourney",
+    "descricao": "Ferramenta de IA focada em criação de imagens artísticas de alta qualidade por meio de comandos de texto.",
+    "data_criacao": "2022",
+    "link": "https://www.midjourney.com",
+    "tags": [
+      "Arte digital",
+      "Criatividade",
+      "Text-to-image",
+      "IA generativa"
+    ]
+  },
+  {
+    "nome": "AlphaGo",
+    "descricao": "Sistema de IA criado pela DeepMind conhecido por vencer campeões mundiais no jogo Go utilizando aprendizado profundo e reforço.",
+    "data_criacao": "2015",
+    "link": "https://deepmind.google/technologies/alphago",
+    "tags": [
+      "Aprendizado por reforço",
+      "DeepMind",
+      "IA estratégica",
+      "Machine learning"
+    ]
+  },
+  {
+    "nome": "Claude 3 Opus",
+    "descricao": "Modelo de linguagem grande da Anthropic, conhecido por seu alto desempenho, raciocínio avançado e segurança robusta em comparação com outros LLMs.",
+    "data_criacao": "2024",
+    "link": "https://www.anthropic.com/claude",
+    "tags": [
+      "criação de textos",
+      "raciocínio complexo",
+      "análise de documentos",
+      "responder perguntas"
+    ]
+  },
+  {
+    "nome": "Stability AI (SDXL)",
+    "descricao": "Plataforma de código aberto para geração de imagens fotorealistas de alta resolução e controle fino sobre o estilo.",
+    "data_criacao": "2023",
+    "link": "https://stability.ai/stable-diffusion",
+    "tags": [
+      "gerar imagens",
+      "design gráfico",
+      "artes conceituais",
+      "edição criativa"
+    ]
+  },
+  {
+    "nome": "GitHub Copilot",
+    "descricao": "Assistente de programação baseado em IA que sugere linhas inteiras ou funções de código em tempo real em diversos idiomas de programação.",
+    "data_criacao": "2021",
+    "link": "https://github.com/features/copilot",
+    "tags": [
+      "criação de código",
+      "assistente de programação",
+      "automação de software",
+      "revisão de código"
+    ]
+  },
+  {
+    "nome": "Sora",
+    "descricao": "Modelo de IA da OpenAI capaz de gerar vídeos longos e coerentes a partir de prompts de texto, mantendo a consistência do objeto.",
+    "data_criacao": "2024",
+    "link": "https://openai.com/sora",
+    "tags": [
+      "criação de vídeos",
+      "geração de conteúdo audiovisual",
+      "simulação de mundo real",
+      "animação"
+    ]
+  },
+  {
+    "nome": "Perplexity AI",
+    "descricao": "Motor de busca conversacional que usa modelos de linguagem para fornecer respostas diretas e citadas de fontes da web em tempo real.",
+    "data_criacao": "2022",
+    "link": "https://www.perplexity.ai/",
+    "tags": [
+      "busca na web",
+      "responder perguntas",
+      "pesquisa acadêmica",
+      "criação de resumos"
+    ]
+  },
+  {
+    "nome": "Adobe Firefly",
+    "descricao": "Família de modelos de IA generativa integrada à Adobe Creative Cloud, focada em segurança de direitos autorais para uso comercial.",
+    "data_criacao": "2023",
+    "link": "https://www.adobe.com/firefly",
+    "tags": [
+      "edição de vídeos e fotos",
+      "gerar imagens",
+      "preenchimento generativo",
+      "design gráfico"
+    ]
+  },
+  {
+    "nome": "ElevenLabs",
+    "descricao": "Plataforma líder em síntese de fala e clonagem de voz, capaz de gerar áudio multilíngue hiper-realista.",
+    "data_criacao": "2022",
+    "link": "https://elevenlabs.io/",
+    "tags": [
+      "síntese de voz",
+      "clonagem de áudio",
+      "locução",
+      "criação de conteúdo em áudio"
+    ]
+  },
+  {
+    "nome": "Runway Gen-2",
+    "descricao": "Ferramenta de geração de vídeo a partir de texto, imagem ou clipe de vídeo existente, popular no cinema e criação de conteúdo.",
+    "data_criacao": "2023",
+    "link": "https://runwayml.com/",
+    "tags": [
+      "criação de vídeos",
+      "edição de vídeos e fotos",
+      "animação de imagens",
+      "efeitos visuais"
+    ]
+  },
+  {
+    "nome": "Llama 3 (Meta)",
+    "descricao": "Modelo de linguagem grande e open-source da Meta, otimizado para raciocínio, codificação e baixo custo computacional.",
+    "data_criacao": "2024",
+    "link": "https://ai.meta.com/llama/",
+    "tags": [
+      "criação de textos",
+      "desenvolvimento de IA customizada",
+      "criação de código",
+      "análise de sentimentos"
+    ]
+  },
+  {
+    "nome": "Synthesia",
+    "descricao": "Plataforma de criação de vídeos de treinamento e corporativos usando avatares de IA realistas e geração automática de fala.",
+    "data_criacao": "2017",
+    "link": "https://www.synthesia.io/",
+    "tags": [
+      "criação de vídeos com apresentadores virtuais",
+      "treinamento corporativo",
+      "localização de vídeo",
+      "marketing de vídeo"
+    ]
+  },
+  {
+    "nome": "Hugging Face",
+    "descricao": "Hub comunitário e plataforma para a construção, treinamento e compartilhamento de modelos de Machine Learning e datasets.",
+    "data_criacao": "2016",
+    "link": "https://www.huggingface.co/",
+    "tags": [
+      "desenvolvimento de IA customizada",
+      "repositório de modelos",
+      "treinamento de modelos",
+      "processamento de linguagem natural"
+    ]
+  },
+  {
+    "nome": "DeepMind Gato",
+    "descricao": "Modelo multimodal capaz de realizar mais de 600 tarefas diferentes, incluindo jogar jogos, legendar imagens e controlar robôs.",
+    "data_criacao": "2022",
+    "link": "https://deepmind.google/gato",
+    "tags": [
+      "aprendizagem multimodal",
+      "controle robótico",
+      "automação de tarefas",
+      "inteligência geral"
+    ]
+  },
+  {
+    "nome": "Poe",
+    "descricao": "Plataforma agregadora da Quora que permite aos usuários interagir com vários grandes modelos de linguagem em uma única interface.",
+    "data_criacao": "2022",
+    "link": "https://poe.com/",
+    "tags": [
+      "responder perguntas",
+      "comparação de modelos de linguagem",
+      "criação de bots",
+      "acesso a múltiplas IAs"
+    ]
+  },
+  {
+    "nome": "JASPER",
+    "descricao": "Assistente de escrita baseado em IA focado em otimização de conteúdo para SEO e geração de textos longos para marketing.",
+    "data_criacao": "2021",
+    "link": "https://www.jasper.ai/",
+    "tags": [
+      "criação de textos",
+      "marketing de conteúdo",
+      "otimização para SEO",
+      "blogging"
+    ]
+  },
+  {
+    "nome": "Descript",
+    "descricao": "Ferramenta de edição de áudio e vídeo baseada em transcrição, permitindo editar o conteúdo ao simplesmente editar o texto.",
+    "data_criacao": "2017",
+    "link": "https://www.descript.com/",
+    "tags": [
+      "edição de vídeos e fotos",
+      "edição de áudio",
+      "transcrição automática",
+      "clonagem de voz"
+    ]
+  },
+  {
+    "nome": "TensorFlow",
+    "descricao": "Framework de código aberto desenvolvido pelo Google para Machine Learning e Deep Learning, amplamente utilizado em pesquisa e produção.",
+    "data_criacao": "2015",
+    "link": "https://www.tensorflow.org/",
+    "tags": [
+      "desenvolvimento de IA customizada",
+      "visão computacional",
+      "modelagem estatística",
+      "redes neurais"
+    ]
+  },
+  {
+    "nome": "PyTorch",
+    "descricao": "Framework de código aberto de ML, popular por sua flexibilidade e uso predominante em pesquisa acadêmica em deep learning.",
+    "data_criacao": "2016",
+    "link": "https://pytorch.org/",
+    "tags": [
+      "desenvolvimento de IA customizada",
+      "pesquisa em deep learning",
+      "prototipagem rápida",
+      "modelagem científica"
+    ]
+  },
+  {
+    "nome": "Microsoft Designer",
+    "descricao": "Ferramenta de design gráfico que usa IA (incorporando modelos como o DALL-E) para criar imagens e layouts profissionais a partir de prompts.",
+    "data_criacao": "2023",
+    "link": "https://designer.microsoft.com/",
+    "tags": [
+      "design gráfico",
+      "criação automática de apresentação",
+      "gerar imagens",
+      "criação de layouts"
+    ]
+  },
+  {
+    "nome": "Boomy",
+    "descricao": "Gerador de música que permite aos usuários criar, gravar e lançar músicas originais usando algoritmos de inteligência artificial.",
+    "data_criacao": "2018",
+    "link": "https://boomy.com/",
+    "tags": [
+      "criação de música",
+      "geração de trilhas sonoras",
+      "produção musical automática",
+      "edição de áudio"
+    ]
+  },
+  {
+    "nome": "Pika Labs",
+    "descricao": "Ferramenta de geração e edição de vídeos com alta capacidade de estilização e animação de texto para vídeo e imagem para vídeo.",
+    "data_criacao": "2023",
+    "link": "https://pika.art/",
+    "tags": [
+      "criação de vídeos",
+      "animação de imagens",
+      "geração de conteúdo audiovisual",
+      "storytelling visual"
+    ]
+  },
+  {
+    "nome": "Tome",
+    "descricao": "Plataforma que cria apresentações visuais e narrativas inteiras automaticamente, usando prompts para gerar texto e imagens.",
+    "data_criacao": "2022",
+    "link": "https://tome.app/",
+    "tags": [
+      "criação automática de apresentação",
+      "storytelling visual",
+      "design de slides",
+      "criação de briefings"
+    ]
+  },
+  {
+    "nome": "Whisper (OpenAI)",
+    "descricao": "Modelo de reconhecimento automático de fala (ASR) e tradução de código aberto, conhecido por sua alta precisão em ambientes ruidosos e multilinguagem.",
+    "data_criacao": "2022",
+    "link": "https://openai.com/research/whisper",
+    "tags": [
+      "transcrição automática",
+      "reconhecimento de fala",
+      "processamento de linguagem natural",
+      "tradução de áudio"
+    ]
+  },
+  {
+    "nome": "Med-PaLM",
+    "descricao": "Modelo de linguagem focado em responder questões médicas, oferecendo raciocínio clínico e resumindo informações complexas da área da saúde.",
+    "data_criacao": "2023",
+    "link": "https://google.ai/med-palm",
+    "tags": [
+      "saúde e medicina",
+      "análise de dados complexos",
+      "diagnóstico assistido",
+      "pesquisa acadêmica"
+    ]
+  },
+  {
+    "nome": "KREA AI",
+    "descricao": "Plataforma focada em design e criação de imagens em tempo real, permitindo aos usuários desenhar e refinar prompts simultaneamente.",
+    "data_criacao": "2023",
+    "link": "https://krea.ai/",
+    "tags": [
+      "gerar imagens",
+      "design gráfico",
+      "edição criativa",
+      "criação de logos e ícones"
+    ]
+  },
+  {
+    "nome": "Caktus AI",
+    "descricao": "Assistente de escrita e pesquisa desenvolvido especificamente para auxiliar estudantes em tarefas acadêmicas, como ensaios e projetos.",
+    "data_criacao": "2022",
+    "link": "https://caktus.ai/",
+    "tags": [
+      "assistente educacional",
+      "criação de resumos",
+      "revisão gramatical",
+      "criação de textos"
+    ]
+  }
+]
