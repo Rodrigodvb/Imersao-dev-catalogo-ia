@@ -2,6 +2,12 @@ let cardContainer = document.querySelector(".card-container");
 let campoBusca = document.querySelector("header input");
 let dados = [];
 
+// Elementos do Modal
+const mainContainer = document.getElementById('main-container');
+const modalOverlay = document.getElementById('modal-overlay');
+const modalContent = document.getElementById('modal-content');
+
+
 campoBusca.addEventListener("focus", ()=> {
     campoBusca.value = "";
 });
@@ -52,7 +58,33 @@ function renderizarCards(dados) {
         <p>${dado.data_criacao}</p>
         <p>${dado.descricao}</p>
         <a href="${dado.link}" target="_blank">Acesse</a>
-        `
+        `;
+        
+        article.addEventListener('click', () => {
+            showModal(article.innerHTML);
+        });
+
         cardContainer.appendChild(article);
     }
 }
+
+function showModal(content) {
+    modalContent.innerHTML = content;
+    modalOverlay.style.display = 'flex';
+    mainContainer.classList.add('content-blur');
+    document.body.classList.add('modal-open');
+}
+
+function hideModal() {
+    modalOverlay.style.display = 'none';
+    mainContainer.classList.remove('content-blur');
+    document.body.classList.remove('modal-open');
+    modalContent.innerHTML = ''; // Limpa o conteúdo
+}
+
+// Evento para fechar o modal clicando no overlay
+modalOverlay.addEventListener('click', (event) => {
+    if (event.target === modalOverlay) {
+        hideModal();
+    }
+});
