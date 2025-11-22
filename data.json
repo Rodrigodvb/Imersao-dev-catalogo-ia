@@ -358,5 +358,606 @@
       "revisão gramatical",
       "criação de textos"
     ]
+  },
+  {
+    "nome": "Grok",
+    "descricao": "Large Language Model desenvolvido pela xAI, focado em humor e acesso a dados em tempo real via X (Twitter).",
+    "data_criacao": "2023",
+    "link": "https://grok.xai/",
+    "tags": [
+      "modelo de linguagem grande",
+      "chatbot",
+      "humor",
+      "acesso em tempo real",
+      "responder perguntas"
+    ]
+  },
+  {
+    "nome": "Mistral Large",
+    "descricao": "Modelo de linguagem de ponta da Mistral AI, conhecido por sua eficiência e alto desempenho em tarefas complexas.",
+    "data_criacao": "2024",
+    "link": "https://mistral.ai/",
+    "tags": [
+      "modelo de linguagem grande",
+      "compreensão de texto",
+      "raciocínio complexo",
+      "criação de código"
+    ]
+  },
+  {
+    "nome": "Luma AI Genie",
+    "descricao": "Modelo de IA generativa capaz de criar modelos 3D a partir de prompts de texto ou imagens, focado em imersão e jogos.",
+    "data_criacao": "2023",
+    "link": "https://lumalabs.ai/",
+    "tags": [
+      "gerar modelos 3D",
+      "criação de ativos para jogos",
+      "geração de cenas",
+      "modelagem fotorrealista"
+    ]
+  },
+  {
+    "nome": "AIVA",
+    "descricao": "Artificial Intelligence Virtual Artist, especializada em compor trilhas sonoras originais para filmes, jogos e comerciais.",
+    "data_criacao": "2016",
+    "link": "https://www.aiva.us/",
+    "tags": [
+      "gerar música",
+      "criação de trilhas sonoras",
+      "composição automatizada",
+      "direitos autorais livres"
+    ]
+  },
+  {
+    "nome": "Code Llama",
+    "descricao": "Modelo de IA desenvolvido pela Meta, otimizado para tarefas de programação, capaz de gerar e explicar código em diversas linguagens.",
+    "data_criacao": "2023",
+    "link": "https://ai.meta.com/research/publications/code-llama/",
+    "tags": [
+      "criação de código",
+      "assistente de programação",
+      "depuração",
+      "autocompletar código"
+    ]
+  },
+  {
+    "nome": "Pictory AI",
+    "descricao": "Ferramenta que transforma longos conteúdos de texto (blogs, scripts) em vídeos curtos e envolventes para mídias sociais.",
+    "data_criacao": "2020",
+    "link": "https://pictory.ai/",
+    "tags": [
+      "criação de vídeos curtos",
+      "conversão de texto para vídeo",
+      "marketing de conteúdo",
+      "edição automatizada"
+    ]
+  },
+  {
+    "nome": "Keras",
+    "descricao": "API de rede neural de alto nível, escrita em Python e capaz de rodar sobre frameworks como TensorFlow e PyTorch, facilitando prototipagem.",
+    "data_criacao": "2015",
+    "link": "https://keras.io/",
+    "tags": [
+      "framework de deep learning",
+      "prototipagem rápida",
+      "desenvolvimento de modelos",
+      "redes neurais"
+    ]
+  },
+  {
+    "nome": "You.com",
+    "descricao": "Mecanismo de busca alimentado por IA que resume resultados e oferece ferramentas de escrita e codificação integradas (YouChat).",
+    "data_criacao": "2020",
+    "link": "https://you.com/",
+    "tags": [
+      "motor de busca",
+      "resumo de informações",
+      "criação de textos",
+      "navegação privada"
+    ]
+  },
+  {
+    "nome": "Mubert",
+    "descricao": "Plataforma que gera música isenta de royalties através de IA, adaptável a diferentes humores e durações, ideal para conteúdo e streaming.",
+    "data_criacao": "2017",
+    "link": "https://mubert.com/",
+    "tags": [
+      "gerar música",
+      "música de fundo",
+      "música isenta de royalties",
+      "personalização de áudio"
+    ]
+  },
+  {
+    "nome": "Gamma App",
+    "descricao": "Ferramenta de criação automática de apresentações e documentos bonitos e interativos, a partir de um prompt simples de texto.",
+    "data_criacao": "2022",
+    "link": "https://gamma.app/",
+    "tags": [
+      "criação automática de apresentação",
+      "design de slides",
+      "formatação de documentos",
+      "storytelling visual"
+    ]
+  },
+  {
+    "nome": "Inbenta",
+    "descricao": "Plataforma de IA conversacional e semântica, utilizada principalmente para automatizar o atendimento ao cliente e suporte empresarial.",
+    "data_criacao": "2005",
+    "link": "https://www.inbenta.com/",
+    "tags": [
+      "chatbot corporativo",
+      "atendimento ao cliente",
+      "processamento de linguagem natural",
+      "busca semântica"
+    ]
+  },
+  {
+    "nome": "PathAI",
+    "descricao": "IA focada em patologia digital, ajudando patologistas a diagnosticar doenças, como o câncer, com maior precisão e rapidez.",
+    "data_criacao": "2017",
+    "link": "https://www.pathai.com/",
+    "tags": [
+      "diagnóstico médico",
+      "análise de imagens médicas",
+      "patologia digital",
+      "saúde e medicina"
+    ]
+  },
+  {
+    "nome": "Darktrace",
+    "descricao": "IA de segurança cibernética que usa 'Imunidade Cibernética' para detectar e responder automaticamente a ameaças em redes.",
+    "data_criacao": "2013",
+    "link": "https://www.darktrace.com/",
+    "tags": [
+      "cibersegurança",
+      "detecção de ameaças",
+      "resposta automática",
+      "análise de rede"
+    ]
+  },
+  {
+    "nome": "Google Document AI",
+    "descricao": "Serviço da Google Cloud para processar e analisar dados estruturados e não estruturados em documentos, como faturas e contratos.",
+    "data_criacao": "2020",
+    "link": "https://cloud.google.com/document-ai",
+    "tags": [
+      "análise de documentos",
+      "extração de dados",
+      "reconhecimento óptico de caracteres",
+      "automação de processos"
+    ]
+  },
+  {
+    "nome": "Khanmigo",
+    "descricao": "Assistente de IA da Khan Academy, projetado para tutoria personalizada de alunos e auxílio na preparação de aulas para professores.",
+    "data_criacao": "2023",
+    "link": "https://www.khanacademy.org/khanmigo",
+    "tags": [
+      "educação personalizada",
+      "tutoria de IA",
+      "assistente de professor",
+      "resolução de problemas"
+    ]
+  },
+  {
+    "nome": "Resemble AI",
+    "descricao": "Plataforma que oferece clonagem de voz e geração de fala neural, criando vozes realistas para dublagem e assistentes virtuais.",
+    "data_criacao": "2018",
+    "link": "https://www.resemble.ai/",
+    "tags": [
+      "clonagem de voz",
+      "síntese de fala",
+      "text-to-speech",
+      "criação de vozes sintéticas"
+    ]
+  },
+  {
+    "nome": "Flair AI",
+    "descricao": "Ferramenta de design de IA focada em gerar fotos de produtos de alta qualidade para e-commerce e marketing, usando prompts de texto.",
+    "data_criacao": "2022",
+    "link": "https://flair.ai/",
+    "tags": [
+      "gerar imagens de produtos",
+      "design de e-commerce",
+      "criação de cenários",
+      "marketing visual"
+    ]
+  },
+  {
+    "nome": "Inworld AI",
+    "descricao": "Plataforma que permite a criação de NPCs (personagens não jogáveis) inteligentes e conversacionais para jogos e metaversos.",
+    "data_criacao": "2021",
+    "link": "https://www.inworld.ai/",
+    "tags": [
+      "personagens virtuais",
+      "jogos e metaverso",
+      "IA conversacional",
+      "criação de roteiros dinâmicos"
+    ]
+  },
+  {
+    "nome": "Weights & Biases (W&B)",
+    "descricao": "Plataforma MLOps usada por equipes de aprendizado de máquina para rastrear, visualizar e gerenciar experimentos e modelos.",
+    "data_criacao": "2018",
+    "link": "https://wandb.ai/",
+    "tags": [
+      "MLOps",
+      "rastreamento de experimentos",
+      "visualização de dados",
+      "gerenciamento de modelos"
+    ]
+  },
+  {
+    "nome": "MLflow",
+    "descricao": "Plataforma de código aberto para gerenciar todo o ciclo de vida do aprendizado de máquina, incluindo experimentação, reprodutibilidade e implantação.",
+    "data_criacao": "2018",
+    "link": "https://mlflow.org/",
+    "tags": [
+      "MLOps",
+      "código aberto",
+      "gerenciamento de ciclo de vida",
+      "reprodutibilidade de modelos"
+    ]
+  },
+  {
+    "nome": "Pinecone",
+    "descricao": "Banco de dados de vetores projetado para facilitar a criação de aplicativos de IA, como busca semântica, RAG e sistemas de recomendação.",
+    "data_criacao": "2019",
+    "link": "https://www.pinecone.io/",
+    "tags": [
+      "banco de dados de vetores",
+      "busca semântica",
+      "RAG (Geração Aumentada por Recuperação)",
+      "escalabilidade de IA"
+    ]
+  },
+  {
+    "nome": "RT-2 (Robotics Transformer 2)",
+    "descricao": "Modelo de IA multimodal do Google que traduz o conhecimento da web e de LLMs diretamente para o controle de robôs.",
+    "data_criacao": "2023",
+    "link": "https://ai.google/research/rt-2/",
+    "tags": [
+      "robótica",
+      "controle de ação",
+      "modelo multimodal",
+      "aprendizado de máquina aplicado"
+    ]
+  },
+  {
+    "nome": "Kensho",
+    "descricao": "Plataforma de análise de dados e machine learning adquirida pela S&P Global, especializada em insights para o setor financeiro.",
+    "data_criacao": "2013",
+    "link": "https://www.kensho.com/",
+    "tags": [
+      "análise financeira",
+      "processamento de dados complexos",
+      "previsão de mercado",
+      "fintech"
+    ]
+  },
+  {
+    "nome": "Copy.ai",
+    "descricao": "Ferramenta de copywriting baseada em IA, utilizada para gerar conteúdo de marketing, posts em redes sociais e textos de vendas.",
+    "data_criacao": "2020",
+    "link": "https://www.copy.ai/",
+    "tags": [
+      "criação de textos",
+      "copywriting",
+      "marketing de conteúdo",
+      "otimização de SEO"
+    ]
+  },
+  {
+    "nome": "Qlik AutoML",
+    "descricao": "Funcionalidade de machine learning automatizado da Qlik, permitindo que usuários de BI criem modelos preditivos sem serem cientistas de dados.",
+    "data_criacao": "2021",
+    "link": "https://www.qlik.com/us/products/auto-ml",
+    "tags": [
+      "machine learning automatizado",
+      "business intelligence",
+      "análise preditiva",
+      "visualização de dados"
+    ]
+  },
+  {
+    "nome": "Otter.ai",
+    "descricao": "Assistente de reunião que transcreve conversas em tempo real e gera resumos automáticos.",
+    "data_criacao": "2018",
+    "link": "https://otter.ai/",
+    "tags": [
+      "transcrição em tempo real",
+      "resumos de reuniões",
+      "gerenciamento de produtividade",
+      "análise de voz"
+    ]
+  },
+  {
+    "nome": "DeepBrain AI",
+    "descricao": "Oferece avatares de IA realistas para produção de vídeos corporativos e de treinamento sem a necessidade de filmagens complexas.",
+    "data_criacao": "2019",
+    "link": "https://www.deepbrain.io/",
+    "tags": [
+      "criação de vídeos com apresentadores virtuais",
+      "tradução de vídeo",
+      "treinamento corporativo",
+      "clonagem de voz"
+    ]
+  },
+  {
+    "nome": "Suno AI",
+    "descricao": "Ferramenta que permite a criação de músicas originais e complexas a partir de comandos de texto simples (prompts).",
+    "data_criacao": "2023",
+    "link": "https://www.suno.ai/",
+    "tags": [
+      "criação de música",
+      "geração de áudio",
+      "produção musical",
+      "inteligência artificial generativa"
+    ]
+  },
+  {
+    "nome": "Fireflies.ai",
+    "descricao": "Ferramenta de IA para automatizar a anotação e resumo de reuniões em plataformas como Zoom e Google Meet.",
+    "data_criacao": "2019",
+    "link": "https://fireflies.ai/",
+    "tags": [
+      "resumos de reuniões",
+      "transcrição em tempo real",
+      "produtividade empresarial",
+      "análise de dados de voz"
+    ]
+  },
+  {
+    "nome": "HeyGen",
+    "descricao": "Plataforma para criação de vídeos profissionais com avatares personalizáveis, focada em marketing e comunicação.",
+    "data_criacao": "2020",
+    "link": "https://www.heygen.com/",
+    "tags": [
+      "criação de vídeos com apresentadores virtuais",
+      "clonagem de voz",
+      "marketing de vídeo",
+      "animação de avatares"
+    ]
+  },
+  {
+    "nome": "H2O.ai",
+    "descricao": "Plataforma de IA e machine learning para empresas, focada em automação de modelagem preditiva (AutoML).",
+    "data_criacao": "2011",
+    "link": "https://www.h2o.ai/",
+    "tags": [
+      "machine learning empresarial",
+      "modelagem preditiva",
+      "automação de MLOps",
+      "análise de dados complexos"
+    ]
+  },
+  {
+    "nome": "Run:ai",
+    "descricao": "Plataforma de orquestração de infraestrutura de IA que otimiza o uso de GPUs e recursos de computação para treinamento de modelos.",
+    "data_criacao": "2018",
+    "link": "https://www.run.ai/",
+    "tags": [
+      "otimização de infraestrutura",
+      "treinamento de modelos",
+      "orquestração de recursos",
+      "computação de alto desempenho"
+    ]
+  },
+  {
+    "nome": "NVIDIA NeMo",
+    "descricao": "Framework de código aberto para a criação, personalização e implementação de modelos de linguagem grandes (LLMs).",
+    "data_criacao": "2021",
+    "link": "https://developer.nvidia.com/nemo",
+    "tags": [
+      "desenvolvimento de LLMs",
+      "código aberto",
+      "processamento de linguagem natural",
+      "personalização de modelos"
+    ]
+  },
+  {
+    "nome": "Comet ML",
+    "descricao": "Plataforma de experimentação e rastreamento de modelos de Machine Learning, auxiliando na colaboração e reprodução de resultados.",
+    "data_criacao": "2017",
+    "link": "https://www.comet.com/",
+    "tags": [
+      "rastreamento de experimentos",
+      "gerenciamento de modelos",
+      "MLOps",
+      "visualização de dados"
+    ]
+  },
+  {
+    "nome": "Baidu ERNIE",
+    "descricao": "Modelo de linguagem grande chinês (LLM) conhecido por suas capacidades avançadas de compreensão de linguagem e geração de conteúdo.",
+    "data_criacao": "2019",
+    "link": "https://aistudio.baidu.com/",
+    "tags": [
+      "processamento de linguagem natural",
+      "LLM chinês",
+      "criação de textos",
+      "compreensão contextual"
+    ]
+  },
+  {
+    "nome": "Weka IO",
+    "descricao": "Sistema de arquivos de alto desempenho otimizado para cargas de trabalho intensivas de IA e Machine Learning em grande escala.",
+    "data_criacao": "2013",
+    "link": "https://www.weka.io/",
+    "tags": [
+      "armazenamento de dados para IA",
+      "alto desempenho",
+      "infraestrutura de ML",
+      "processamento em larga escala"
+    ]
+  },
+  {
+    "nome": "Tencent Hunyuan",
+    "descricao": "Modelo de linguagem multimodal chinês que suporta geração coesa de texto, imagem e vídeo em uma única interface.",
+    "data_criacao": "2023",
+    "link": "https://hunyuan.tencent.com/",
+    "tags": [
+      "multimodalidade",
+      "geração de texto e imagem",
+      "LLM chinês",
+      "criação de conteúdo"
+    ]
+  },
+  {
+    "nome": "Lexica Aperture",
+    "descricao": "Ferramenta para pesquisa e geração de imagens de IA, focada em fornecer prompts criativos e estilos diversos para artistas digitais.",
+    "data_criacao": "2022",
+    "link": "https://lexica.art/",
+    "tags": [
+      "gerar imagens",
+      "pesquisa visual",
+      "inteligência artificial generativa",
+      "arte digital"
+    ]
+  },
+  {
+    "nome": "Replika",
+    "descricao": "Um companheiro de IA personalizado, focado em conversação empática e suporte ao bem-estar emocional do usuário.",
+    "data_criacao": "2017",
+    "link": "https://replika.ai/",
+    "tags": [
+      "chatbots emocionais",
+      "companhia virtual",
+      "saúde mental",
+      "processamento de linguagem natural"
+    ]
+  },
+  {
+    "nome": "DeepL",
+    "descricao": "Serviço de tradução baseado em redes neurais profundas que oferece traduções de alta precisão e captura nuances contextuais.",
+    "data_criacao": "2017",
+    "link": "https://www.deepl.com/",
+    "tags": [
+      "tradução automática",
+      "processamento de linguagem natural",
+      "interpretação contextual",
+      "serviços de API"
+    ]
+  },
+  {
+    "nome": "Lensa AI",
+    "descricao": "Aplicativo de edição de fotos que utiliza IA para criar avatares artísticos e aprimorar retratos de forma automatizada.",
+    "data_criacao": "2016",
+    "link": "https://lensa-ai.com/",
+    "tags": [
+      "edição de vídeos e fotos",
+      "gerar avatares",
+      "melhoria de imagem",
+      "aplicativos móveis de IA"
+    ]
+  },
+  {
+    "nome": "GliaCloud",
+    "descricao": "Plataforma que transforma automaticamente artigos de texto e dados em vídeos noticiosos, economizando tempo na produção de conteúdo.",
+    "data_criacao": "2017",
+    "link": "https://www.gliacloud.com/",
+    "tags": [
+      "conversão de texto para vídeo",
+      "jornalismo automatizado",
+      "produção de conteúdo",
+      "IA para mídia"
+    ]
+  },
+  {
+    "nome": "Salesforce Einstein",
+    "descricao": "Conjunto de ferramentas de IA integradas ao CRM Salesforce para insights de vendas, atendimento ao cliente e automação de marketing.",
+    "data_criacao": "2016",
+    "link": "https://www.salesforce.com/einstein/",
+    "tags": [
+      "automação de vendas",
+      "análise de dados complexos",
+      "CRM",
+      "atendimento ao cliente"
+    ]
+  },
+  {
+    "nome": "Eightfold AI",
+    "descricao": "Plataforma de talentos que utiliza IA para otimizar o recrutamento, retenção e desenvolvimento de funcionários em grandes corporações.",
+    "data_criacao": "2016",
+    "link": "https://www.eightfold.ai/",
+    "tags": [
+      "recrutamento automatizado",
+      "gestão de talentos",
+      "análise de RH",
+      "otimização de força de trabalho"
+    ]
+  },
+  {
+    "nome": "Clarifai",
+    "descricao": "Plataforma de Visão Computacional e IA multimodal para pesquisa, organização e classificação de imagens e vídeos em escala.",
+    "data_criacao": "2013",
+    "link": "https://www.clarifai.com/",
+    "tags": [
+      "visão computacional",
+      "classificação de imagens",
+      "análise de vídeo",
+      "IA multimodal"
+    ]
+  },
+  {
+    "nome": "C3.ai",
+    "descricao": "Plataforma de IA empresarial que fornece soluções preditivas para otimizar operações em setores como energia, manufatura e finanças.",
+    "data_criacao": "2009",
+    "link": "https://c3.ai/",
+    "tags": [
+      "IA para empresas",
+      "modelagem preditiva",
+      "otimização de processos industriais",
+      "internet das coisas (IoT)"
+    ]
+  },
+  {
+    "nome": "AssemblyAI",
+    "descricao": "API de ponta para transcrição de áudio, processamento de linguagem e sumarização, ideal para desenvolvedores que necessitam integrar voz.",
+    "data_criacao": "2017",
+    "link": "https://www.assemblyai.com/",
+    "tags": [
+      "transcrição de áudio",
+      "processamento de linguagem natural",
+      "sumarização de texto",
+      "desenvolvimento via API"
+    ]
+  },
+  {
+    "nome": "Cala",
+    "descricao": "Plataforma de IA especializada em design e produção de moda, automatizando o pipeline de criação de coleções e gestão de produção.",
+    "data_criacao": "2016",
+    "link": "https://www.calalabs.com/",
+    "tags": [
+      "design de moda",
+      "otimização de cadeia de suprimentos",
+      "criação de protótipos",
+      "inteligência artificial generativa"
+    ]
+  },
+  {
+    "nome": "InVideo",
+    "descricao": "Editor de vídeo online que usa IA para automatizar a criação de vídeos curtos para mídias sociais a partir de prompts de texto.",
+    "data_criacao": "2017",
+    "link": "https://invideo.io/",
+    "tags": [
+      "edição de vídeos e fotos",
+      "criação de conteúdo para redes sociais",
+      "conversão de texto para vídeo",
+      "marketing de vídeo"
+    ]
+  },
+  {
+    "nome": "OpenAI Jukebox",
+    "descricao": "Um sistema de IA capaz de gerar música em vários gêneros e estilos como áudio cru, incluindo vocais simulados.",
+    "data_criacao": "2020",
+    "link": "https://openai.com/research/jukebox",
+    "tags": [
+      "criação de música",
+      "geração de áudio",
+      "deep learning",
+      "inteligência artificial generativa"
+    ]
   }
 ]
